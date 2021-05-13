@@ -1,0 +1,112 @@
+body{
+    background-image: url("background4.jpg");
+    background-color: white;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1{
+    text-align: center;
+    background-color: rgb(68, 66, 66);
+    color: rgb(233, 231, 229);
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-top: 0px;
+    font-family:'Georgia Pro Black';
+	
+}
+#menutab{
+    height: 30%;
+    width: 200%;
+	text-align: center;
+    
+}
+input.red {
+	text-align:center;
+}
+	
+
+
+img{
+    float: right;
+    margin-right: 50px;
+    height:200px;
+}
+img.1{
+    float: left;
+    margin-right: 50px;
+    height:200px;
+}
+
+}
+.grey{
+    background-color:#778899;
+}
+.white{
+    background-color:white;
+
+}
+
+
+ul.c{
+    list-style-type: circle;
+}
+ol.c {
+  list-style-type: upper-roman;
+}
+
+#resbody{
+    background-image: none;
+   
+}
+h2,h4,h5,{
+    text-align: center;
+    height: 5px;
+	color: blue;
+}
+
+	
+}
+
+
+.red{
+    color: red;
+    font-weight: bold;
+}
+
+td.c{
+	text-align: center;
+}
+p.thicker{
+	text-align: center;
+	font-weight: 900;
+	
+} 
+p.b{
+	text-align: center;
+	font-weight: normal;
+    font-style: italic;
+
+} 
+p{
+	text-align:center;
+	font-weight:bold;
+}
+
+u { 
+  text-decoration: underline;
+}
+a:link, a:visited {
+  background-color:Blue ;
+  color: white;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+a:hover, a:active {
+  background-color: #cc5500;
+}
+
+h3{
+    text-decoration:underline;
+}
